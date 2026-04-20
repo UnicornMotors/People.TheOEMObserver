@@ -1,6 +1,7 @@
 # People.TheOEMObserver
 # Home:
 https://www.youtube.com/@TheOEMObserver
+
 # Video:
 - [Why You Can't Fix Your Own Truck Anymore (The Software Lock Scam)(https://youtu.be/Yn-2HP1Swu0)
 - [Why 90% of New Trucks Are Garbage (The $65,000 Downgrade)](https://youtu.be/PHCeXiWl9PM)
